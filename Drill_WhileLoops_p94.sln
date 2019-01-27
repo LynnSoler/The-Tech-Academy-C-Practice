@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drill_WhileLoops_p94", "..\..\..\source\repos\Drill_WhileLoops_p94\Drill_WhileLoops_p94\Drill_WhileLoops_p94.csproj", "{47F43390-7009-4D98-BECF-20A351F59AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F43390-7009-4D98-BECF-20A351F59AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F43390-7009-4D98-BECF-20A351F59AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F43390-7009-4D98-BECF-20A351F59AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F43390-7009-4D98-BECF-20A351F59AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {813F3A7C-33BD-4323-8BC2-CC88AB4F0342}
+	EndGlobalSection
+EndGlobal
