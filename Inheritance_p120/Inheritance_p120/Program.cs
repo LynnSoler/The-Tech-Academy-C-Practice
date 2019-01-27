@@ -10,10 +10,10 @@ namespace Inheritance_p120
     {
         static void Main(string[] args)
         {
-            Employee emp1 = new Employee();
-            emp1.FirstName = "Sample";
-            emp1.LastName = "Student";
-            emp1.SayName();
+            Employee emp1 = new Employee(); //EMPLOYEE OBJ
+            emp1.FirstName = "Sample"; //INSTANTIATE EMP OBJ W/"SAMPLE"
+            emp1.LastName = "Student"; //INSTANTIATE EMP OBJ W/"STUDENT"
+            emp1.SayName(); //CALL SUPERCLASS "SAYNAME()" ON EMP OBJ
             Console.ReadKey();
         }
 

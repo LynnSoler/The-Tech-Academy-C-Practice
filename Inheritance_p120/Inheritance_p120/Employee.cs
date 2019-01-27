@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Inheritance_p120
 {
-    public class Employee : Person
+    public class Employee : Person //"EMPLOYEE" CLASS INHERIT FROM "PERSON" CLASS
     {
-        //PROPERTIES
+        //PROPERTY "id"
         public int id; // { get; set; }
     }
 
