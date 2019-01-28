@@ -10,14 +10,14 @@ namespace Operator_Overload_p129
     {
         public static void Main(string[] args)
         {
-            Employee n1 = new Employee();
-            Employee n2 = new Employee();
+            Employee int1 = new Employee();
+            Employee int2 = new Employee();
 
-            n1.id = 21;
-            n2.id = 45;
+            int1.id = 23;
+            int2.id = 52;
 
-            bool yes = n1 == n2;
-            bool no = n1 != n2;
+            bool yes = int1 == int2;
+            bool no = int1 != int2;
 
             Employee emp1 = new Employee(); //"EMPLOYEE" OBJ
             emp1.FirstName = "Sample"; //INSTANTIATE EMP OBJ W/"SAMPLE"
